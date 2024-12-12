@@ -1,0 +1,6 @@
+# Create and edit .gitignore
+*.class
+bin/
+.settings/
+.classpath
+.project
